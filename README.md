@@ -4,7 +4,7 @@
 DocAppoint features a premium glassmorphic visual style with a custom responsive layout system. Under the hood, it's powered by secure session-persistent JWT authentication, dynamic light/dark modes, and live data models connected directly to MongoDB Atlas.
 
 💻 **Live Client URL:** [https://doctor-appointer-client.vercel.app](https://doctor-appointer-client.vercel.app)  
-⚙️ **Live Backend API URL:** [https://docappoint-api.onrender.com](https://docappoint-api.onrender.com)
+⚙️ **Live Backend API URL:** [https://doctorappointer-server.onrender.com](https://doctorappointer-server.onrender.com)
 
 ---
 
